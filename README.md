@@ -1,6 +1,4 @@
-# Master-of-Data-Science
-This Repository contains all of my Master's Projects
-## Database Design Project.
+# Database Design Project
 This is a practical and real-world project that puts the knowledge I gained into practice. I investigated and understood a popular publicly available covid 19 dataset on GitHub. WHO is relying on this dataset for it's research. I designed a conceptual model for storing the dataset in a relational database, applied normalisation techniques to improve the model, built the database according to my design and imported the data into my database, and developed SQL queries as a part of some visualisations.
 The objective of this Project involves how to build an application that connects to a database backend, running a relational schema. The Project involves the following parts,
 
